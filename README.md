@@ -16,7 +16,7 @@ A automação faz login no LinkedIn, pesquisa por palavras-chave, filtra os resu
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seuusuario/LinkedInAutomation.git
+    git clone https://github.com/GS-Rodrigues/LinkedIn-Automation.git
     cd LinkedInAutomation
     ```
 
